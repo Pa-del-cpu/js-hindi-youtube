@@ -10,5 +10,5 @@ let temprature  = Null //Null represents the intentional absence of any object v
 //BigInt used for larger integers. Specially used for facebook, tarding.
 // symbols = to indetufy uniqueness
 
-console.log(typeof name)
-console.log(typeof age)
+console.log(typeof name);
+console.log(typeof age);
