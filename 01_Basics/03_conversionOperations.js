@@ -1,4 +1,4 @@
-let score = "33"
+  let score = "33"
 
 console.log(typeof score) //to identify the type of variable
 console.log(typeof(score)) ///to identify the type of variable
@@ -41,8 +41,6 @@ console.log(typeof BooleannIsLoggedIn)
 
 // "  " => false
 // pallavi => true
-
-*****************************************************************
 
 let someNumber = 33
 
