@@ -47,3 +47,20 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 console.log(stringNumber)
 console.log(typeof stringNumber)
+
+//*********************************************Operations***********************************************/
+
+let value = 3;
+let negValue = -value; //to civert positive vvalue to negativ waa vslue
+console.log(negValue);
+
+
+let strg1= "pallavi"
+let strg2 = "Jadhav"
+
+Full_Name_strg = strg1 + strg2
+console.log(typeof strg1);
+
+console.log(true)
+console.log(+true)
+
