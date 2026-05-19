@@ -1,10 +1,10 @@
-if (true){
+//if (true){
 
-}; // If condition is true then we will execute the code.
+//}; // If condition is true then we will execute the code.
 
-if(false){
+//if(false){
 
-}; //If condition is false then code wil not be executed.
+//}; //If condition is false then code wil not be executed.
 
 const isLoggedIn = true
 const temprature = 41
@@ -20,7 +20,7 @@ if( temprature === 41){
        // let power = "fly"
        // console.log(`user power: ${power}`);
 
-    }
+    //}
 //console.log (`user power: ${power}`)
 
 const balance = 1000
